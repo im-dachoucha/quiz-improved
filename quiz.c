@@ -135,7 +135,7 @@ void main(){
 //			printf("**For each wrong answer your score decreases by 1 pt, unless if its already at 0 pt\n\n");
 //			printf("**For each question you get 3 tries.\n\n");
 			printf("**If you get the right answer from the first time you get 3 pts, 2 pts for the second trie, and 1 pt for the third one\n\n");
-			printf("**If you don't manage to get the right answer from 3 tries, you get 0 pts, and you get prompted by the next question");
+			printf("**If you don't manage to get the right answer from 3 tries, you get 0 pts, and you get prompted by the next question\n\n");
 			printf("Press any key to get to the menu\n");
 			getch();
 			system("cls");
